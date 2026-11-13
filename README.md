@@ -1,5 +1,5 @@
 # Sistema-Gestion-Transporte
-Sistema de Gestión de Transporte entre Ciudades
+
 Descripción
 Aplicación de consola desarrollada en C++ para administrar ciudades, conexiones entre ellas, pasajeros y solicitudes de viaje. El sistema permite consultar recorridos y calcular la ruta de menor distancia entre dos ciudades.
 Objetivo
